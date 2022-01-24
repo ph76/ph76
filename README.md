@@ -1,9 +1,14 @@
 Hi! 👋
 I'm Philippe Hoton
+
 a French Tech AI enthusiast, FullStack Developer & IT Consultant.
+
 I make mobile apps, found of making fun projects.
+
 I have 20 years of tech experience, but i'm always learning about new stuffs.
+
 Today, i'm a fresh new Data Analyst, and still growing as Machine Learning Engineer. 
+
 
 Contact me to get in touch now!
 <!---
